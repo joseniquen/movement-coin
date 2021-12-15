@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: movement-coin-microservice
+  cloud:
+    config:
+      enable: true
+      uri: http://localhost:9997
